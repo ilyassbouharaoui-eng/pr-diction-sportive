@@ -1,4 +1,4 @@
-from elo_rating import *
+from calcul_proba import *
 from donne_utiles import *
 import random as rd
 import numpy as np
