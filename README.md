@@ -33,15 +33,5 @@ Les données utilisées proviennent de :
 - https://github.com/martj42/international_results
 - https://eloratings.net/
 
----
-##  Structure du projet
 
-.
-├── data/
-│   └── results.csv
-├── source/
-│   ├── prediction.py
-│   ├── donnees_utiles.py
-│   ├── calcul_proba.py
-│   └── evaluation.py
-└── README.md
+
