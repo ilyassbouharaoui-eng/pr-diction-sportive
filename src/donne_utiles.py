@@ -1,4 +1,7 @@
 import pandas as pd
+# Data sources:
+# Elo ratings: https://eloratings.net/
+# Match results: https://github.com/martj42/international_results
 
 # On implémente une fonction qui supprime les espaces et met les noms en majuscules
 # afin de les adapter au format du DataFrame
